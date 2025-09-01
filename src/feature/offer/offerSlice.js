@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import data from '../../Data/LowPrice.json'
+import data from '../../Data/lowPrice.json'
 
 const initialState = {
     offerCategory: data.offerCategory || [],

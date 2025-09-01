@@ -4,7 +4,7 @@ import Category from "./Components/Category";
 import Carousel from "./Components/CommonComponents/Carousel";
 import allCarouselData from "./Data/AllCarousel.json";
 import allCategoryData from "./Data/AllCategory.json";
-import lowPriceData from "./Data/LowPrice.json";
+import lowPriceData from "./Data/lowPrice.json";
 import MoreDemanded from "./Components/CommonComponents/MoreDemanded";
 import Top_offers from "./Components/CommonComponents/Top_offers";
 // import Smartphones from "./Components/CommonComponents/Smartphones";
