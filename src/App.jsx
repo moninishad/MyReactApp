@@ -10,7 +10,7 @@ import ProductListing from "./ProductListing";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import AllServices from "./AllServices";
-import Crud from "./CRUD";
+import Crud from "./Crud";
 
 function App() {
   return (
