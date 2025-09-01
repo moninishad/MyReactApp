@@ -1,0 +1,424 @@
+{
+  "offerCategory": [
+    {
+      "id": 1,
+      "name": "Kilos",
+      "image": "../images/CategoryImages/Thumb/1.png",
+      "price": 345,
+      "products": [
+        {
+          "name": "Detergent Powder",
+          "price": 299,
+          "image": "/images/SquaredealImages/Offering/detergent_powder-1.jpeg"
+        },
+        {
+          "name": "Washing Powder",
+          "price": 350,
+          "image": "/images/SquaredealImages/Offering/washing_powder-1.jpeg"
+        },
+        {
+          "name": "Washing Soap",
+          "price": 199,
+          "image": "/images/SquaredealImages/Offering/washing_soap-1.jpeg"
+        },
+        {
+          "name": "Dish Wash Bar",
+          "price": 150,
+          "image": "/images/SquaredealImages/Offering/dish_wash_bar-1.jpeg"
+        },
+        {
+          "name": "Dish Wash Liquid",
+          "price": 250,
+          "image": "/images/SquaredealImages/Offering/dish_wash_liquid-1.jpeg"
+        },
+        {
+          "name": "Floor Cleaner",
+          "price": 300,
+          "image": "/images/SquaredealImages/Offering/floor_cleaner-1.jpeg"
+        },
+        {
+          "name": "Toilet Cleaner",
+          "price": 400,
+          "image": "/images/SquaredealImages/Offering/toilet_cleaner-1.jpeg"
+        },
+        {
+          "name": "Glass Cleaner",
+          "price": 450,
+          "image": "/images/SquaredealImages/Offering/glass_cleaner-1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Men's Top wear",
+      "image": "../images/CategoryImages/FashionImg/F1.jpeg",
+      "price": 299,
+      "products": [
+        {
+          "name": "Polyester Brown T-Shirt",
+          "price": 439,
+          "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-1.jpeg"
+        },
+        {
+          "name": "Men Solid Polo T-Shirt",
+          "price": 399,
+          "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-2.jpeg"
+        },
+        {
+          "name": "Oversized Men Tie & Dye T-Shirt",
+          "price": 299,
+          "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-3.jpeg"
+        },
+        {
+          "name": "Cotton Blend Pink T-Shirt",
+          "price": 245,
+          "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-4.jpeg"
+        },
+        {
+          "name": "Brown T-Shirt",
+          "price": 355,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/1/w/f/m-towel-001-tallwalker-original-imaghct3zkjg68z4.jpeg?q=70"
+        },
+        {
+          "name": " Polo T-Shirt",
+          "price": 147,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/l/7/l-towel-002-tallwalker-original-imaghfyf7cyc6v7x.jpeg?q=70"
+        },
+        {
+          "name": " Tie & Dye T-Shirt",
+          "price": 368,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/e/j/b/m-crc-den-db-blu-shd-carbonn-cloth-original-imagh3yyrgrcwhfx.jpeg?q=70"
+        },
+        {
+          "name": "Cotton Blend T-Shirt",
+          "price": 399,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/h/o/0/l-st1-vebnor-original-imahcywk5vxyfcdp.jpeg?q=70"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Men's Bottom wear",
+      "image": "../images/CategoryImages/FashionImg/F2.jpeg",
+      "price": 345,
+      "products": [
+        {
+          "name": "Men Regular Fit Dark Green Pure Cotton Trousers",
+          "price": 99,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/t/u/g/40-ic-pt190a045-indiclub-original-imah22g5tksh5zq5.jpeg?q=70"
+        },
+        {
+          "name": "Men Slim Fit Blue Lycra Blend Trousers",
+          "price": 499,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/n/t/q/40-ic-pt190a044-indiclub-original-imah3ac8hycucbat.jpeg?q=70"
+        },
+        {
+          "name": "Men Slim Fit Khaki Lycra Blend Trousers",
+          "price": 399,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/d/p/y/32-bi-trouser-combraided-original-imagyytzgzybuynb.jpeg?q=70"
+        },
+        {
+          "name": "Men Loose Fit Mid Rise Black Jeans",
+          "price": 399,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/a/s/q/30-pic-pt190e045-indiclub-original-imagtyu5p2tedyrj.jpeg?q=70"
+        },
+        {
+          "name": "BMen Slim Fit Dark Blue Linen Blend Trousers",
+          "price": 249,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/1/n/s/30-tu1-vebnor-original-imah8fm6qfczpwej.jpeg?q=70"
+        },
+        {
+          "name": " Men Regular Fit Multicolor Lycra Blend Trousers",
+          "price": 369,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/v/u/b/36-tu1-vebnor-original-imah8fm66gcrqzgt.jpeg?q=70"
+        },
+        {
+          "name": "Men Relaxed Grey Linen Blend Trousers",
+          "price": 358,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/1/n/s/30-tu1-vebnor-original-imah8fm6qfczpwej.jpeg?q=70"
+        },
+        {
+          "name": "Men Regular Fit Black Lycra Blend Trousers",
+          "price": 399,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/b/j/l/30-tu1-vebnor-original-imah8fm6zwhafr6v.jpeg?q=70"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Women Ethnic",
+      "image": "../images/CategoryImages/FashionImg/F3.jpeg",
+      "price": 499,
+      "products": [
+        {
+          "name": "Kurta Set with Dupatta",
+          "price": 199,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/d/8/s/xl-5mm-sequece-3pcs-physil-original-imah98y25dpdczsx.jpeg?q=70"
+        },
+        {
+          "name": "Women suits ",
+          "price": 356,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/f/a/i/m-gb-aa-01-g-bluxe-original-imagu7xjzc6pmacu.jpeg?q=70"
+        },
+        {
+          "name": "Simple Kurta Set",
+          "price": "239",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/r/9/s/xl-ma-lamba-creations-original-imah9j3cnpk7em9p.jpeg?q=70"
+        },
+        {
+          "name": "Unique Piece Kurta Set",
+          "price": "399",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/9/f/d/xxl-set-gk-sak-jaipur-original-imagqg4tzygtgvqw.jpeg?q=70"
+        },
+        {
+          "name": "Anarkali",
+          "price": 499,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/9/6/t/xxl-o-417-mokosh-original-imaha2ynkgc7gszh.jpeg?q=70"
+        },
+        {
+          "name": "Kurta and Plazo Set",
+          "price": 269,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/i/s/9/3xl-ds-4-rose-peach-3pc-physil-original-imah3ypkupphzs22.jpeg?q=70"
+        },
+        {
+          "name": "Velvet Pant Set",
+          "price": "299",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/g/h/7/m-055-velvet-pant-set-physil-original-imah7n3yxech88qd.jpeg?q=70"
+        },
+        {
+          "name": "Sharara Set",
+          "price": "399",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/w/m/d/s-plz-big-boota-jaal-kjfab-original-imah7y5mwxfrhh9b.jpeg?q=70"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Women Western",
+      "image": "../images/CategoryImages/FashionImg/F7.jpeg",
+      "price": 399,
+      "products": [
+        {
+          "name": "Women A-line Black Midi/Calf Length Dress",
+          "price": 259,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/w/d/a/l-met-0240514-black-metronaut-original-imahakt8gffemmtw.jpeg?q=70"
+        },
+        {
+          "name": "Women Bodycon White, Black Midi | Calf",
+          "price": 359,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/i/y/o/m-siri-029-033-purvaja-original-imaggy22r97myda5.jpeg?q=70"
+        },
+        {
+          "name": "Women Fit and Flare Black",
+          "price": "229",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/f/i/b/3xl-cbkdrss2128-curve-by-kassually-original-imahyf6tugazvrhn.jpeg?q=70"
+        },
+        {
+          "name": "Women Fit Flare Black ",
+          "price": "399",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/s/e/y/l-6104-sheetal-associates-original-imagmnekgrz42nc3.jpeg?q=70"
+        },
+        {
+          "name": "Women Bodycon Multicolor Women Dress",
+          "price": 499,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/l/m/6/s-wini-025-purvaja-original-imah3kj3gppw6k3d.jpeg?q=70"
+        },
+        {
+          "name": "Women Fit and Flare Multicolor Above",
+          "price": 199,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/l/5/q/s-mj-7107-manojava-original-imah6a7a9tyvd94q.jpeg?q=70"
+        },
+        {
+          "name": "Woemen Layered Pink Midi | Calf",
+          "price": "399",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/u/l/3/xxl-htdrss7124-honky-tonky-original-imagszfh6upac7jq.jpeg?q=70"
+        },
+        {
+          "name": "Women Maxi Green Midi | Women Dress",
+          "price": "399",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/u/s/z/s-d22-pak-green-felopie-original-imah8f7mbwzhhdmv.jpeg?q=70"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kids",
+      "image": "../images/CategoryImages/FashionImg/F9.jpeg",
+      "price": 499,
+      "products": [
+        {
+          "name": "Girls Below Knee Festive/Wedding Dress",
+          "price": 299,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/w/a/x/2-3-years-jimi-pn-fashion-original-imah8y5whrvhdppk.jpeg?q=70"
+        },
+        {
+          "name": "Girls Below Knee Party Dress",
+          "price": 399,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/t/x/h/2-3-years-rayon-yellow-03-magnete-original-imagt5tydzz4d9pf.jpeg?q=70"
+        },
+        {
+          "name": "Baby Girls Calf Length Festival Dress",
+          "price": 499,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/j/p/r/6-7-years-new001-sms-dressses-original-imagytgdy56bamwm.jpeg?q=70"
+        },
+        {
+          "name": "Girls Below Knee Festive/Party Dress",
+          "price": 399,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/u/e/u/3-4-years-rff-n-pk-pn-fashion-original-imahcy7ymaxvu8hu.jpeg?q=70"
+        },
+        {
+          "name": "Girls Baby Mini/Short Festive/Wedding",
+          "price": 199,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/u/7/p/3-4-years-jahir-micky-sim-fab-original-imahf78ufzyzzcfb.jpeg?q=70"
+        },
+        {
+          "name": "Mickey Girls Midi/Knee Length Casual",
+          "price": 259,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/y/e/1/1-2-years-3-mm-kolkata-garments-original-imahapyamvt2rezd.jpeg?q=70"
+        },
+        {
+          "name": "Girls Below Knee Festive/Party Dress",
+          "price": 357,
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/z/u/w/3-4-years-cpgl0016-chandrika-lifestyle-original-imahc5b6xwufcqfx.jpeg?q=70"
+        },
+        {
+          "name": "Girls Below Knee Party Dress",
+          "price": "399",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/i/4/x/5-6-years-yellow-01-ayan-fashion-original-imah9hqrbaumncf5.jpeg?q=70"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Home & Furniture",
+      "image": "../images/CategoryImages/Thumb/5.webp",
+            "price": 468,
+
+      "products": [
+        {
+          "id": 1,
+          "name": "Home Furnishings",
+          "price": 359,
+          "image": "../images/CategoryImages/HomeFurnImg/H1.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Home Decore",
+          "price": 299,
+          "image": "../images/CategoryImages/HomeFurnImg/H7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Tools & Utility",
+          "price": 199,
+          "image": "../images/CategoryImages/HomeFurnImg/H8.webp"
+        },
+        {
+          "id": 9,
+          "name": "Work Space Furniture",
+          "price": 499,
+          "image": "../images/CategoryImages/HomeFurnImg/H9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Kids Furniture",
+          "price": 399,
+          "image": "../images/CategoryImages/HomeFurnImg/H10.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "Lightings &Electronics",
+          "price": 499,
+          "image": "../images/CategoryImages/HomeFurnImg/H11.webp"
+        },
+        {
+          "id": 12,
+          "name": "Cleaning & Bath",
+          "price": 498,
+          "image": "../images/CategoryImages/HomeFurnImg/H12.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Beauty, Toys & More",
+      "image": "../images/CategoryImages/Thumb/8.png",
+            "price": 399,
+
+      "products": [
+        {
+          "id": 1,
+          "name": "Beauty & Personal Care",
+          "price": 2598,
+          "image": "../images/CategoryImages/BeautyToysImg/T1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Men's Grooming",
+          "price": 1999,
+          "image": "../images/CategoryImages/BeautyToysImg/T2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Food & Drinks",
+          "price": 1299,
+          "image": "../images/CategoryImages/BeautyToysImg/T3.webp"
+        },
+        {
+          "id": 4,
+          "name": "Nutrition & Health Care",
+          "price": 1199,
+          "image": "../images/CategoryImages/BeautyToysImg/T4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Baby Care",
+          "price": 799,
+          "image": "../images/CategoryImages/BeautyToysImg/T5.webp"
+        },
+        {
+          "id": 6,
+          "name": "Toys & School Supplies",
+          "price": 499,
+          "image": "../images/CategoryImages/BeautyToysImg/T6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Sports & Fitness",
+          "price": 899,
+          "image": "../images/CategoryImages/BeautyToysImg/T7.webp"
+        },
+        {
+          "id": 8,
+          "name": "Books",
+          "price": 699,
+          "image": "../images/CategoryImages/BeautyToysImg/T8.webp"
+        },
+        {
+          "id": 9,
+          "name": "Music",
+          "price": 599,
+          "image": "../images/CategoryImages/BeautyToysImg/T9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Stationary & Office Supplies",
+          "price": 299,
+          "image": "../images/CategoryImages/BeautyToysImg/T10.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "Auto Accessories",
+          "price": 399,
+          "image": "../images/CategoryImages/BeautyToysImg/T11.webp"
+        },
+        {
+          "id": 12,
+          "name": "Safety & Hygiene Essentials",
+          "price": 499,
+          "image": "../images/CategoryImages/BeautyToysImg/T12.jpeg"
+        }
+      ]
+    }
+  ]
+}

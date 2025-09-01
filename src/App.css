@@ -1,0 +1,17 @@
+.slick-prev,.slick-next {
+    height: 40px !important;
+    background: #00000029 !important;
+}
+
+/* .slick-prev{  
+      height: 80px !important;
+      width: 40px !important;
+    background: white !important;
+    left: 0px !important;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .12) !important;
+}
+.slick-next {
+    height: 40px !important;
+    background: #00000029 !important;
+    right: 0px !important;
+} */

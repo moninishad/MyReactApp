@@ -1,0 +1,561 @@
+{
+    "brand": "Ridgely Studio Works",
+    "currency": "USD",
+    "ean": "RDG686490",
+    "id": "RDG686490",
+    "inventory": {
+        "ats": 999999,
+        "backorderable": false,
+        "id": "inventory",
+        "inStockDate": "2024-02-07T08:00:00.000Z",
+        "orderable": true,
+        "preorderable": false,
+        "stockLevel": 999999
+    },
+    "longDescription": "The Stick Pendant by Ridgely Studio blends sculptural art with modern, minimalist lighting. Its body is comprised of many different round Steel rods that have been welded together into a conical arrangement around where the bulb will be seen. The warm light produced plays beautifully off the surrounding rods, adding a pleasant shimmer to the fixture’s alluring ambiance.",
+    "manufacturerSku": "STI-PE-AW-B",
+    "master": {
+        "masterId": "RDGP153478",
+        "orderable": true,
+        "price": 610
+    },
+    "minOrderQuantity": 1,
+    "name": "Stick Pendant",
+    "pageDescription": "Purchase the Stick Pendant by Ridgely Studio Works today. Free shipping on most orders and guaranteed low prices at Lumens.com.",
+    "pageKeywords": "Stick Pendant;Ridgely Studio Works;--",
+    "pageTitle": "Stick Pendant by Ridgely Studio Works at Lumens.com",
+    "price": 610,
+    "pricePerUnit": 610,
+    "recommendations": [
+        {
+            "recommendationType": {
+                "displayValue": "Bulb - Manufacturer Suggests",
+                "value": 5
+            },
+            "recommendedItemId": "BLB2398583"
+        }
+    ],
+    "shortDescription": "The Stick Pendant by Ridgely Studio blends sculptural art with modern, minimalist lighting. Its body is comprised of many different round Steel rods that have been welded together into a conical arrangement around where the bulb will be seen. The warm light produced plays beautifully off the surrounding rods, adding a pleasant shimmer to the fixture’s alluring ambiance.",
+    "slugUrl": "https://dev.test.lumens.com/stick-pendant-by-ridgely-studio-works-RDG686490.html",
+    "stepQuantity": 1,
+    "type": {
+        "variant": true
+    },
+    "unitMeasure": "",
+    "unitQuantity": 0,
+    "variants": [
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686490",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Arctic White Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686491",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Bronze Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686492",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Gloss Black Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 810,
+            "productId": "RDG686493",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Gunmetal Grey Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686494",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Antique Copper Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686495",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Copper Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686496",
+            "variationValues": {
+                "AttrValue1": "Black",
+                "AttrValue2": "Nickel Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686497",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Arctic White Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 810,
+            "productId": "RDG686498",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Bronze Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686499",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Gloss Black Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 810,
+            "productId": "RDG686500",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Gunmetal Grey Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686501",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Antique Copper Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686502",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Copper Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686503",
+            "variationValues": {
+                "AttrValue1": "Red",
+                "AttrValue2": "Nickel Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686504",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Arctic White Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 810,
+            "productId": "RDG686505",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Bronze Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686506",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Gloss Black Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686507",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Gunmetal Grey Powder Coated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686508",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Antique Copper Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686509",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Copper Plated"
+            }
+        },
+        {
+            "name": "Stick Pendant",
+            "orderable": true,
+            "price": 610,
+            "productId": "RDG686510",
+            "variationValues": {
+                "AttrValue1": "White",
+                "AttrValue2": "Nickel Plated"
+            }
+        }
+    ],
+    "variationAttributes": [
+        {
+            "id": "AttrValue1",
+            "name": "Cord Color",
+            "values": [
+                {
+                    "name": "Black",
+                    "orderable": true,
+                    "value": "Black"
+                },
+                {
+                    "name": "Red",
+                    "orderable": true,
+                    "value": "Red"
+                },
+                {
+                    "name": "White",
+                    "orderable": true,
+                    "value": "White"
+                }
+            ]
+        },
+        {
+            "id": "AttrValue2",
+            "name": "Finish",
+            "values": [
+                {
+                    "name": "Arctic White Powder Coated",
+                    "orderable": true,
+                    "value": "Arctic White Powder Coated"
+                },
+                {
+                    "name": "Bronze Powder Coated",
+                    "orderable": true,
+                    "value": "Bronze Powder Coated"
+                },
+                {
+                    "name": "Gloss Black Powder Coated",
+                    "orderable": true,
+                    "value": "Gloss Black Powder Coated"
+                },
+                {
+                    "name": "Gunmetal Grey Powder Coated",
+                    "orderable": true,
+                    "value": "Gunmetal Grey Powder Coated"
+                },
+                {
+                    "name": "Antique Copper Plated",
+                    "orderable": true,
+                    "value": "Antique Copper Plated"
+                },
+                {
+                    "name": "Copper Plated",
+                    "orderable": true,
+                    "value": "Copper Plated"
+                },
+                {
+                    "name": "Nickel Plated",
+                    "orderable": true,
+                    "value": "Nickel Plated"
+                }
+            ]
+        }
+    ],
+    "variationValues": {
+        "AttrValue1": "Black",
+        "AttrValue2": "Arctic White Powder Coated"
+    },
+    "c_AttrValue1": "Black",
+    "c_AttrValue2": "Arctic White Powder Coated",
+    "c_BatchID": "1080529",
+    "c_BeOriginalAmericas": false,
+    "c_BrandDescription": "Founded in 2000 by Zac Ridgely as a sculptural lighting brand, Ridgely Studio Works uses eclectic materials such as crushed glass, onyx, steel mesh, golden aluminum and even reclaimed bicycle frames to build one-of-a-kind handcrafted pieces that are both elegant and functional.",
+    "c_BrandFreightFee": false,
+    "c_Bulb1Quantity": "1",
+    "c_BulbOption": 3,
+    "c_CallToOrder": false,
+    "c_Category": [
+        "Pendant Lighting",
+        "Medium & Large Pendants",
+        "Exposed Bulb Lighting",
+        "Kitchen Medium & Large Pendants",
+        "Kitchen Island Lighting",
+        "Ridgely Studio Works"
+    ],
+    "c_ContractGrade": false,
+    "c_DateFirstPublished": "2017-01-24",
+    "c_DesignBrand": true,
+    "c_Dimension": [
+        "Cord; Length  144\"",
+        "Fixture; Height  11\", Diameter  10\""
+    ],
+    "c_ECOFootprint": [
+        "LED",
+        "Energy Efficient"
+    ],
+    "c_EnergyEfficient": true,
+    "c_EnergyStarQualified": false,
+    "c_Exclusive": false,
+    "c_Finish": "Arctic White Powder Coated",
+    "c_FlameRetardant": false,
+    "c_FreeTextLumens": [
+        "Composed of artistically welded round steel rods",
+        "Each piece is handmade and unique"
+    ],
+    "c_GiftWrap": false,
+    "c_Handmade": false,
+    "c_Height": 11,
+    "c_HuggerAdapterIncluded": false,
+    "c_Light Source": [
+        "LED"
+    ],
+    "c_LightBulb": [
+        "LED|1100.0|9.0|A19|E26|120|2700|15000.00|No|1|Bulb Required - Not Included|90|,,,,"
+    ],
+    "c_Lighting": [
+        "One 9 Watt (1100 Lumens) 120 Volt E26 Medium Base LED Lamp(s) (Not Included)"
+    ],
+    "c_LightingAlternative": [
+        "1 X 60W max 120V E26 (medium base) incandescent lamp, (not included) equivalent 13W cfl or LED lamp can be used"
+    ],
+    "c_MadeIn": "Canada",
+    "c_MarineGrade": false,
+    "c_Material": [
+        "Steel"
+    ],
+    "c_MergedTotalLumens": "1100.0",
+    "c_MotionSensor": false,
+    "c_NetSuiteInternalID": 4518153,
+    "c_NetSuiteRecordType": "inventoryItem",
+    "c_NewNoteUntilDate_SiteSpecific": "2017-07-24",
+    "c_NewScore": 0,
+    "c_Non-ReturnableItem": true,
+    "c_NonFreeSwatch": false,
+    "c_OnHoverImageLU": "RDGP153478_alt03",
+    "c_OnHoverImageYL": "RDGP153478_alt03",
+    "c_OpenBox": false,
+    "c_Photocell": false,
+    "c_PrivateLabel": false,
+    "c_ProductCategoryPath": [
+        "Lighting : Ceiling Lights : Pendant Lighting",
+        "Lighting : Ceiling Lights : Pendant Lighting : Medium & Large Pendants",
+        "Lighting : Kitchen Lighting : Kitchen Pendants : Kitchen Medium & Large Pendants",
+        "Lighting : Kitchen Lighting : Kitchen Island Lighting"
+    ],
+    "c_Prop65": true,
+    "c_QuickShipItem": false,
+    "c_RecordType": "sku",
+    "c_SellToInventory": false,
+    "c_Shape": "Cone",
+    "c_ShippingDepth": 16,
+    "c_ShippingHeight": 15,
+    "c_ShippingStatement": "7 to 9 weeks",
+    "c_ShippingStatementType": "Custom",
+    "c_ShippingWeight": 10,
+    "c_ShippingWidth": 15,
+    "c_ShipsFreight": false,
+    "c_ShortDimension": [
+        "Cord; L  144\"",
+        "Fixture; H  11\", Dia  10\""
+    ],
+    "c_SpecialFeature": [
+        "Composed of artistically welded round steel rods",
+        "Each piece is handmade and unique"
+    ],
+    "c_StandardColor": "Black",
+    "c_StandardFinish": "Glossy",
+    "c_StandardMaterial": "Steel",
+    "c_Style": [
+        "Transitional",
+        "Design",
+        "Avant-garde",
+        "Ultra-Modern",
+        "Whimsical"
+    ],
+    "c_TotalLumens": "1100.00",
+    "c_TotalWattage": "9.00",
+    "c_VariantDimension": [
+        "Cord; Length  144\"",
+        "Fixture; Height  11\", Diameter  10\""
+    ],
+    "c_VariantLightBulb": [
+        "LED|1100.0|9.0|A19|E26|120|2700|15000.00|No|1|Bulb Required - Not Included|90|,,,,"
+    ],
+    "c_WhiteGlove": false,
+    "c_WhiteLabel": false,
+    "c_Width": 10,
+    "c_brandID": "9551",
+    "c_clearance": false,
+    "c_doNotShowPrice": false,
+    "c_hsc_code": "9405190099",
+    "c_longDescription_SiteSpecific": "The Stick Pendant by Ridgely Studio blends sculptural art with modern, minimalist lighting. Its body is comprised of many different round Steel rods that have been welded together into a conical arrangement around where the bulb will be seen. The warm light produced plays beautifully off the surrounding rods, adding a pleasant shimmer to the fixture’s alluring ambiance.",
+    "c_maxPriceVariant": "RDG686505",
+    "c_minPriceVariant": "RDG686495",
+    "c_name_SiteSpecific": "Stick Pendant",
+    "c_newnote_SiteSpecific": false,
+    "c_nonConvertedDimensions": [
+        "11\"D X 12\"H on the bottom, tapers to 3\"D at the top"
+    ],
+    "c_pageDescription_LU": "Purchase the Stick Pendant by Ridgely Studio Works today. Free shipping on most orders and guaranteed low prices at Lumens.com.",
+    "c_pageDescription_SiteSpecific": "Purchase the Stick Pendant by Ridgely Studio Works today. Free shipping on most orders and guaranteed low prices at Lumens.com.",
+    "c_pageDescription_YL": "Buy the Stick Pendant Light by Ridgely Studio Works and the best in modern lighting at YLighting - plus Free Shipping.",
+    "c_pageTitle_LU": "Stick Pendant by Ridgely Studio Works at Lumens.com",
+    "c_pageTitle_SiteSpecific": "Stick Pendant by Ridgely Studio Works at Lumens.com",
+    "c_pageURL_LU": "stick-pendant-by-ridgely-studio-works",
+    "c_pageURL_SiteSpecific": "stick-pendant-by-ridgely-studio-works",
+    "c_retailSalePrice": [
+        610
+    ],
+    "c_retailSalePriceSortingRuleMax": 810,
+    "c_retailSalePriceSortingRuleMin": 610,
+    "c_sale": false,
+    "c_shipToCanada": true,
+    "c_shortDescription_SiteSpecific": "The Stick Pendant by Ridgely Studio blends sculptural art with modern, minimalist lighting. Its body is comprised of many different round Steel rods that have been welded together into a conical arrangement around where the bulb will be seen. The warm light produced plays beautifully off the surrounding rods, adding a pleasant shimmer to the fixture’s alluring ambiance.",
+    "c_skuImageCollection": "{\"Cord Color=Black | Finish=Gloss Black Powder Coated\":\"RDGP153478_alt01\", \"Cord Color=Black | Finish=Copper Plated\":\"RDGP153478\"}",
+    "c_tradeOnly": false,
+    "c_tradeSalePrice": [
+        549
+    ],
+    "c_tradeSalePriceSortingRuleMax": 729,
+    "c_tradeSalePriceSortingRuleMin": 549,
+    "c_variantSignature": "Cord Color=Black | Finish=Arctic White Powder Coated",
+    "c_vendor": "Ridgely Studio Works Inc",
+    "c_Bala": "Bala",
+    "c_defaultVariant": "RDG686490",
+    "c_images": {
+        "galleryImages": [
+            {
+                "imageUrl": "Lumens/RDGP153478",
+                "imageCaption": "Shown in Black Cord color, Copper Plated finish",
+                "videoUrl": "",
+                "imageIndex": null
+            },
+            {
+                "imageUrl": "Lumens/RDGP153478_alt03",
+                "imageCaption": "Shown in Copper Plated finish, Detail view",
+                "videoUrl": "",
+                "imageIndex": null
+            },
+            {
+                "imageUrl": "Lumens/RDGP153478_alt04",
+                "imageCaption": "Shown in Gloss Black Powder Coated finish, Detail view",
+                "videoUrl": "",
+                "imageIndex": null
+            },
+            {
+                "imageUrl": "Lumens/RDGP153478_alt25",
+                "imageCaption": "Shown in Nickel Plated finish, Detail view",
+                "videoUrl": "",
+                "imageIndex": null
+            }
+        ],
+        "videos": [],
+        "lifestyleImages": [],
+        "diagramImages": [
+            {
+                "imageUrl": "Lumens/RDGP153478_sp",
+                "imageCaption": "",
+                "videoUrl": "",
+                "imageIndex": null
+            },
+            {
+                "imageUrl": "Lumens/RDGP153478_sd_08a",
+                "imageCaption": "",
+                "videoUrl": "",
+                "imageIndex": null
+            }
+        ],
+        "rolloverSwatches": [],
+        "mediaGridImages": [],
+        "hero_images": [
+            {
+                "name": null,
+                "id": "Lumens/RDGP153478"
+            },
+            {
+                "name": null,
+                "id": "Lumens/RDGP153478_alt03"
+            },
+            {
+                "name": null,
+                "id": "Lumens/RDGP153478_alt04"
+            },
+            {
+                "name": null,
+                "id": "Lumens/RDGP153478_alt25"
+            }
+        ],
+        "diagrams": [
+            {
+                "name": null,
+                "id": "Lumens/RDGP153478_sp"
+            },
+            {
+                "name": null,
+                "id": "Lumens/RDGP153478_sd_08a"
+            }
+        ],
+        "life_stlyes": [],
+        "swatch_rollover": []
+    },
+    "c_productHooksModifyGETResponse": true,
+    "c_imageName": ""
+}

@@ -1,0 +1,1646 @@
+{
+  "allCategory": [
+    {
+      "id": 1,
+      "name": "Kilos",
+      "image": "../images/CategoryImages/Thumb/1.png",
+      "price": 345,
+       "products": [
+            {
+              "name": "Polyester Brown T-Shirt",
+              "price": 233,
+              "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-1.jpeg"
+            },
+            {
+              "name": "Men Solid Polo T-Shirt",
+              "price": 100,
+              "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-2.jpeg"
+            }
+
+          ]
+    },
+    {
+      "id": 2,
+      "name": "Mobiles",
+      "image": "../images/CategoryImages/Thumb/2.webp",
+      "price": 12999
+    }, 
+    {
+      "id": 3,
+      "name": "Fashion",
+      "image": "../images/CategoryImages/Thumb/3.webp",
+      "fashionData": [
+        { 
+          "id": 1,
+          "name": "Men's Top wear",
+          "image": "../images/CategoryImages/FashionImg/F1.jpeg",
+          "price": 299,
+          "products": [
+            {
+              "name": "Polyester Brown T-Shirt",
+              "price": 999,
+              "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-1.jpeg"
+            },
+            {
+              "name": "Men Solid Polo T-Shirt",
+              "price": 799,
+              "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-2.jpeg"
+            },
+            {
+              "name": "Oversized Men Tie & Dye T-Shirt",
+              "price": "899",
+              "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-3.jpeg"
+            },
+            {
+              "name": "Cotton Blend Pink T-Shirt",
+              "price": "399",
+              "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-4.jpeg"
+            },
+            {
+              "name": "Brown T-Shirt",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/1/w/f/m-towel-001-tallwalker-original-imaghct3zkjg68z4.jpeg?q=70"
+            },
+            {
+              "name": " Polo T-Shirt",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/l/7/l-towel-002-tallwalker-original-imaghfyf7cyc6v7x.jpeg?q=70"
+            },
+            {
+              "name": " Tie & Dye T-Shirt",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/e/j/b/m-crc-den-db-blu-shd-carbonn-cloth-original-imagh3yyrgrcwhfx.jpeg?q=70"
+            },
+            {
+              "name": "Cotton Blend T-Shirt",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/h/o/0/l-st1-vebnor-original-imahcywk5vxyfcdp.jpeg?q=70"
+            }
+
+
+          ] ,
+          "FestiveData": [
+            {
+              "heading": "Festive Collection"
+            },
+            {
+              "id": 2,
+              "image": "/images/SquaredealImages/Festiveimg/1.webp",
+              "title": "Casual Shirts",
+              "deal": "Min.45% Off",
+              "products": [
+                {
+                  "name": "Polyester Brown T-Shirt",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-1.jpeg"
+                },
+                {
+                  "name": "Men Solid Polo T-Shirt",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-2.jpeg"
+                },
+                {
+                  "name": "Oversized Men Tie & Dye T-Shirt",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-3.jpeg"
+                },
+                {
+                  "name": "Cotton Blend Pink T-Shirt",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/CasualShirts/casual_shirt-4.jpeg"
+                },
+                {
+                  "name": "Brown T-Shirt",
+                  "price": 999,
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/1/w/f/m-towel-001-tallwalker-original-imaghct3zkjg68z4.jpeg?q=70"
+                },
+                {
+                  "name": " Polo T-Shirt",
+                  "price": 799,
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/p/l/7/l-towel-002-tallwalker-original-imaghfyf7cyc6v7x.jpeg?q=70"
+                },
+                {
+                  "name": " Tie & Dye T-Shirt",
+                  "price": "899",
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/e/j/b/m-crc-den-db-blu-shd-carbonn-cloth-original-imagh3yyrgrcwhfx.jpeg?q=70"
+                },
+                {
+                  "name": "Cotton Blend T-Shirt",
+                  "price": "399",
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/h/o/0/l-st1-vebnor-original-imahcywk5vxyfcdp.jpeg?q=70"
+                }
+
+
+              ] 
+            },
+            {
+              "id": 3,
+              "image": "/images/SquaredealImages/Festiveimg/2.webp",
+              "title": "Men's T-shirts",
+              "deal": "Min.45% Off",
+              "products" : [
+                {
+                  "name": "Blue Denim Shirt",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits1.jpeg"
+                },
+                {
+                  "name": "Checked Cotton Shirt",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits2.jpeg"
+                },
+                {
+                  "name": "Men Regular Fit Self Design",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits3.jpeg"
+                },
+                {
+                  "name": "Men Collar Casual Shirt",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits4.jpeg"
+                },
+                {
+                  "name": " Polo T-Shirt",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits5.jpeg"
+                },
+                {
+                  "name": " Tie & Dye T-Shirt",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits6.jpeg"
+                },
+                {
+                  "name": "Cotton Blend T-Shirt",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits7.jpeg"
+                },
+                {
+                  "name": "Cotton Blend T-Shirt",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/MenShirts/mensT-Shrits8.jpeg"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "image": "/images/SquaredealImages/Festiveimg/3.webp",
+              "title": "Speakers",
+              "deal": "Min.60% Off",
+              "products" : [
+                {
+                  "name": "Mivi Play Bluetooth Speaker (Black)",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker1.jpeg"
+                },
+                {
+                  "name": "boAt Stone 350 Bluetooth Speaker",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker2.jpeg"
+                },
+                {
+                  "name": "MZ M412SP Bluetooth Speaker",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker3.jpeg"
+                },
+                {
+                  "name": "TRIGGR Puls8 Bluetooth Speake",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker4.jpeg"
+                },
+                {
+                  "name": "FERONS Powerpact bass Bluetooth Speaker",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker5.jpeg"
+                },
+                {
+                  "name": " F FERONS Wireless (Red, Stereo Channel)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker6.jpeg"
+                },
+                {
+                  "name": "Mivi Play 12HRS (Blue, Mono Green)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker7.jpeg"
+                },
+                {
+                  "name": "Mivi Play 12HRS (Blue, Mono 1 Black)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/Speakers/speaker8.jpeg"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "image": "/images/SquaredealImages/Festiveimg/4.webp",
+              "title": "Women's Gowns",
+              "deal": "Min.60% Off",
+              "products" : [
+                {
+                  "name": "Floral Print Georgette (Yellow)",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns1.jpeg"
+                },
+                {
+                  "name": "Floral Print Georgette  (Light Blue)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns2.jpeg"
+                },
+                {
+                  "name": "Floral Print Georgette  (Pink)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns3.jpeg"
+                },
+                {
+                  "name": "Floral Print Georgette  (Green)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns4.jpeg"
+                },
+                {
+                  "name": "Solid Viscose Rayon Stitched Anarkali Gown  (Black)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns5.jpeg"
+                },
+                {
+                  "name": "Solid Viscose Rayon Stitched Anarkali Gown  (Blue)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns6.jpeg"
+                },
+                {
+                  "name": "Solid Viscose Rayon Stitched Anarkali Gown  (Brown)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns7.jpeg"
+                },
+                {
+                  "name": "Solid Viscose Rayon Stitched Anarkali Gown  (Light Blue)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Festiveimg/WomenGrowns/WomenGrowns8.jpeg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Men's Bottom wear",
+          "image": "../images/CategoryImages/FashionImg/F2.jpeg",
+          "price": 345,
+          "products": [
+            {
+              "name": "Men Regular Fit Dark Green Pure Cotton Trousers",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/t/u/g/40-ic-pt190a045-indiclub-original-imah22g5tksh5zq5.jpeg?q=70"
+            },
+            {
+              "name": "Men Slim Fit Blue Lycra Blend Trousers",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/n/t/q/40-ic-pt190a044-indiclub-original-imah3ac8hycucbat.jpeg?q=70"
+            },
+            {
+              "name": "Men Slim Fit Khaki Lycra Blend Trousers",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/d/p/y/32-bi-trouser-combraided-original-imagyytzgzybuynb.jpeg?q=70"
+            },
+            {
+              "name": "Men Loose Fit Mid Rise Black Jeans",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/a/s/q/30-pic-pt190e045-indiclub-original-imagtyu5p2tedyrj.jpeg?q=70"
+            },
+            {
+              "name": "BMen Slim Fit Dark Blue Linen Blend Trousers",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/1/n/s/30-tu1-vebnor-original-imah8fm6qfczpwej.jpeg?q=70"
+            },
+            {
+              "name": " Men Regular Fit Multicolor Lycra Blend Trousers",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/v/u/b/36-tu1-vebnor-original-imah8fm66gcrqzgt.jpeg?q=70"
+            },
+            {
+              "name": "Men Relaxed Grey Linen Blend Trousers",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/1/n/s/30-tu1-vebnor-original-imah8fm6qfczpwej.jpeg?q=70"
+            },
+            {
+              "name": "Men Regular Fit Black Lycra Blend Trousers",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/b/j/l/30-tu1-vebnor-original-imah8fm6zwhafr6v.jpeg?q=70"
+            }
+
+
+          ] ,
+          "SummerData": [
+            {
+              "heading": "Summer Collection"
+            },
+            { 
+              "id": 1,
+              "image": "/images/SquaredealImages/Summerimg/1.webp",
+              "title": "Men's Casual Shoes",
+              "deal": "Min.70% Off",
+              "products" : [
+                {
+                  "name": "Everest-02 Grey Trekking,Gym",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes1.jpeg"
+                },
+                {
+                  "name": "Sports,Stylish with extra Comfort",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes2.jpeg"
+                },
+                {
+                  "name": "Trekking Comfort Casual Shoes",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes3.jpeg"
+                },
+                {
+                  "name": "Comfortable Outdoor Shoes For Men ",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes4.jpeg"
+                },
+                {
+                  "name": "ELITESTRIDE Sneakers For Men (White , 10)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes5.jpeg"
+                },
+                {
+                  "name": "Synthetic Leather Loafers For Men  (Brown , 10)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes6.jpeg"
+                },
+                {
+                  "name": "Synthetic Leather Loafers For Men  (Black , 10)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes7.jpeg"
+                },
+                {
+                  "name": "Synthetic Leather Loafers For Men  (Tan , 10)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes8.jpeg"
+                }
+              ] 
+            },
+            {
+              "id": 2,
+              "image": "/images/SquaredealImages/Summerimg/2.webp",
+              "title": "Men's Slippers",
+              "deal": "Min.70% Off",
+              "products" : [
+                {
+                  "name": "Men Slippers  (Brown , 9)",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper1.jpeg"
+                },
+                {
+                  "name": "Men Slides  (Olive , 6)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper2.jpeg"
+                },
+                {
+                  "name": "Antiskid Men Flip Flops  (Tan , 7)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper3.jpeg"
+                },
+                {
+                  "name": "Comfortable Outdoor Slipper For Men ",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper4.jpeg"
+                },
+                {
+                  "name": "Men Flip Flops (Multicolor , 7)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper5.jpeg"
+                },
+                {
+                  "name": "Synthetic Slipper For Men  (Brown , 10)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper6.jpeg"
+                },
+                {
+                  "name": "Synthetic Slipper For Men  (Black , 10)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper7.jpeg"
+                },
+                {
+                  "name": "Synthetic Slipper For Men  (10)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MensSleeper/MensSleeper8.jpeg"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "image": "/images/SquaredealImages/Summerimg/3.webp",
+              "title": "Backpacks",
+              "deal": "Min.70% Off",
+              "products" : [
+                {
+                  "name": "Large 41 L Backpack Laptop Backpack  (Grey)",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack1.jpeg"
+                },
+                {
+                  "name": "HINEX Large 35 L Laptop Backpack",
+                  "price": 799,
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/s/j/o/-original-imah5wr2ffqzrgxb.jpeg?q=70"
+                },
+                {
+                  "name": "Large 35 L Laptop Backpack unisex backpack",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack3.jpeg"
+                },
+                {
+                  "name": "HINEX 35 L SCHOOL BAG MEN BACKPACK LAPTOP",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack4.jpeg"
+                },
+                {
+                  "name": " LAPTOP BAG Waterproof Backpack  (Black, 35 L)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack5.jpeg"
+                },
+                {
+                  "name": "Large 43 L Laptop Backpack Daredevil  (Grey, Black)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack6.jpeg"
+                },
+                {
+                  "name": "HINEX 25 L Backpack For College School",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack7.jpeg"
+                },
+                {
+                  "name": " Travel kids bag (Blue) Waterproof Backpack  (Blue, 25 L)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/Backpack/Backpack8.jpeg"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "image": "/images/SquaredealImages/Summerimg/4.webp",
+              "title": "Men's Sandal & Floaters",
+              "deal": "Min.50% Off",
+              "products" : [
+                {
+                  "name": "Men Casual Sandal  (Brown , 12)",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle1.jpeg"
+                },
+                {
+                  "name": "Sports,Stylish with extra Comfort",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle2.jpeg"
+                },
+                {
+                  "name": "Men Clogs Sandal  (Black , 10)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle3.jpeg"
+                },
+                {
+                  "name": "Comfortable Outdoor  For Men ",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle4.jpeg"
+                },
+                {
+                  "name": "ELITESTRIDE Sandle For Men (White , 10)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle5.jpeg"
+                },
+                {
+                  "name": "Men Sports Sandal  (Grey , 9)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle6.jpeg"
+                },
+                {
+                  "name": "Men Sports Sandal  (Navy, Red , 11)",
+                  "price": "399",
+                  "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/b/l/s/9-003-cloud-tan-doctor-health-super-soft-tan-original-imahbdedtuhj5ffb.jpeg?q=70"
+                },
+                {
+                  "name": "Men Sports Sandal  (Olive, Yellow , 11)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MensSandle/MensSandle8.jpeg"
+                }
+              ]
+              
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Women Ethnic",
+          "image": "../images/CategoryImages/FashionImg/F3.jpeg",
+          "price": 499,
+          "products": [
+            {
+              "name": "Men Regular Fit Dark Green Pure Cotton Trousers",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/d/8/s/xl-5mm-sequece-3pcs-physil-original-imah98y25dpdczsx.jpeg?q=70"
+            },
+            {
+              "name": "Men Slim Fit Blue Lycra Blend Trousers",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/f/a/i/m-gb-aa-01-g-bluxe-original-imagu7xjzc6pmacu.jpeg?q=70"
+            },
+            {
+              "name": "Men Slim Fit Khaki Lycra Blend Trousers",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/r/9/s/xl-ma-lamba-creations-original-imah9j3cnpk7em9p.jpeg?q=70"
+            },
+            {
+              "name": "Men Loose Fit Mid Rise Black Jeans",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/9/f/d/xxl-set-gk-sak-jaipur-original-imagqg4tzygtgvqw.jpeg?q=70"
+            },
+            {
+              "name": "BMen Slim Fit Dark Blue Linen Blend Trousers",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/9/6/t/xxl-o-417-mokosh-original-imaha2ynkgc7gszh.jpeg?q=70"
+            },
+            {
+              "name": " Men Regular Fit Multicolor Lycra Blend Trousers",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/i/s/9/3xl-ds-4-rose-peach-3pc-physil-original-imah3ypkupphzs22.jpeg?q=70"
+            },
+            {
+              "name": "Men Relaxed Grey Linen Blend Trousers",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/g/h/7/m-055-velvet-pant-set-physil-original-imah7n3yxech88qd.jpeg?q=70"
+            },
+            {
+              "name": "Men Regular Fit Black Lycra Blend Trousers",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/w/m/d/s-plz-big-boota-jaal-kjfab-original-imah7y5mwxfrhh9b.jpeg?q=70"
+            }
+
+
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Men Footwear",
+          "image": "../images/CategoryImages/FashionImg/F4.jpeg",
+          "price": 799,
+         "products" : [
+                {
+                  "name": "Everest-02 Grey Trekking,Gym",
+                  "price": 999,
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes1.jpeg"
+                },
+                {
+                  "name": "Sports,Stylish with extra Comfort",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes2.jpeg"
+                },
+                {
+                  "name": "Trekking Comfort Casual Shoes",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes3.jpeg"
+                },
+                {
+                  "name": "Comfortable Outdoor Shoes For Men ",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes4.jpeg"
+                },
+                {
+                  "name": "ELITESTRIDE Sneakers For Men (White , 10)",
+                  "price": 799,
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes5.jpeg"
+                },
+                {
+                  "name": "Synthetic Leather Loafers For Men  (Brown , 10)",
+                  "price": "899",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes6.jpeg"
+                },
+                {
+                  "name": "Synthetic Leather Loafers For Men  (Black , 10)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes7.jpeg"
+                },
+                {
+                  "name": "Synthetic Leather Loafers For Men  (Tan , 10)",
+                  "price": "399",
+                  "image": "/images/SquaredealImages/Summerimg/MenCasualShoes/MenCasualShoes8.jpeg"
+                }
+              ]  
+        }, 
+        {
+          "id": 5,
+          "name": "Women Footwear",
+          "image": "../images/CategoryImages/FashionImg/F5.jpeg",
+          "price": 1299,
+          "products": [
+            {
+              "name": "Sneakers For Women",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/n/v/w/-original-imah84xe5dj9dwzu.jpeg?q=70"
+            },
+            {
+              "name": "Women Sports Shoes",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/v/u/y/-original-imagyxrfv69cyzum.jpeg?q=70"
+            },
+            {
+              "name": "Women Flats Sandal",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/d/h/y/9-1528-dashny-maroon-original-imahas8mjtgdtcfg.jpeg?q=70"
+            },
+            {
+              "name": "Extra Soft Heel Ortho",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/f/9/m/8-10613510686-8-khadim-s-beige-original-imah4ebgrda5bt4d.jpeg?q=70"
+            },
+            {
+              "name": "Women Flats Sandal",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/l5h2xe80/sandal/y/8/p/-original-imagg58fpacvuurg.jpeg?q=70"
+            },
+            {
+              "name": "Woemn Slippers ",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/i/v/3/5-fl-123-5-flite-beige-original-imah8bhrpnmnvvzk.jpeg?q=70"
+            },
+            {
+              "name": "Women Flip Flops",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/0/f/u/9-wl7573-ladies-prl-9-walkaroo-purple-original-imah9fzxgfmsnmmt.jpeg?q=70"
+            },
+            {
+              "name": "Woemn Slippers",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/p/l/o/-original-imah46hgzvmwbec8.jpeg?q=70"
+            }
+
+
+          ] 
+        },
+        {
+          "id": 6,
+          "name": "Watches and Accessories",
+          "image": "../images/CategoryImages/FashionImg/F6.jpeg",
+          "price": 699,
+          "products": [
+            {
+              "name": "Original Gold Plated Day",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/5/n/i/-original-imagrk9sdaqqc9kz.jpeg?q=70"
+            },
+            {
+              "name": "Analog Watch for men",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/b/x/h/-original-imagsykxhuyyf7hh.jpeg?q=70"
+            },
+            {
+              "name": "New Designer Square Dial",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/o/8/l/-original-imagrk9rydrgw4h5.jpeg?q=70"
+            },
+            {
+              "name": "Analog Watch - for Women A2090-11",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/f/b/l/1-car-wheel-spinning-rotating-gyro-watch-khxr-men-original-imah5bpqp4fz4utc.jpeg?q=70"
+            },
+            {
+              "name": "Volga Analogue Watch Lether",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/o/8/l/-original-imagrk9rydrgw4h5.jpeg?q=70"
+            },
+            {
+              "name": "Analog Watch - for men ",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/t/e/0/na-2-new-stylish-combo-of-silver-aveo-dial-stainless-steel-watch-original-imagzcsj7xxquccf.jpeg?q=70"
+            },
+            {
+              "name": "Car Wheel watch | Spinning watch",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/t/c/d/1-0201bg-special-designer-watch-killer-men-women-original-imahb7wh5hywwgsf.jpeg?q=70"
+            },
+            {
+              "name": "Trending Premium Quality Day",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/watch/m/u/w/1-sk-pg-4078-wyt-brwn-basic-with-day-and-date-display-provogue-original-imah7z77xsvqa4ur.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Women Western",
+          "image": "../images/CategoryImages/FashionImg/F7.jpeg",
+          "price": 399,
+          "products": [
+            {
+              "name": "Women A-line Black Midi/Calf Length Dress",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/w/d/a/l-met-0240514-black-metronaut-original-imahakt8gffemmtw.jpeg?q=70"
+            },
+            {
+              "name": "Women Bodycon White, Black Midi | Calf",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/i/y/o/m-siri-029-033-purvaja-original-imaggy22r97myda5.jpeg?q=70"
+            },
+            {
+              "name": "Women Fit and Flare Black",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/f/i/b/3xl-cbkdrss2128-curve-by-kassually-original-imahyf6tugazvrhn.jpeg?q=70"
+            },
+            {
+              "name": "Women Fit Flare Black ",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/s/e/y/l-6104-sheetal-associates-original-imagmnekgrz42nc3.jpeg?q=70"
+            },
+            {
+              "name": "Women Bodycon Multicolor Women Dress",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/l/m/6/s-wini-025-purvaja-original-imah3kj3gppw6k3d.jpeg?q=70"
+            },
+            {
+              "name": "Women Fit and Flare Multicolor Above",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/l/5/q/s-mj-7107-manojava-original-imah6a7a9tyvd94q.jpeg?q=70"
+            },
+            {
+              "name": "Woemen Layered Pink Midi | Calf",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/u/l/3/xxl-htdrss7124-honky-tonky-original-imagszfh6upac7jq.jpeg?q=70"
+            },
+            {
+              "name": "Women Maxi Green Midi | Women Dress",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/u/s/z/s-d22-pak-green-felopie-original-imah8f7mbwzhhdmv.jpeg?q=70"
+            }
+          ]
+
+        },
+        {
+          "id": 8,
+          "name": "Bags, Suitcases & Luggage",
+          "image": "../images/CategoryImages/FashionImg/F8.webp",
+          "price": 1599,
+          "products": [
+            {
+              "name": "Small Cabin SuitCase ",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/6/n/y/-original-imah2c4fauhbpfqx.jpeg?q=70"
+            },
+            {
+              "name": "Safari Cabin Suitcase (55cm)",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/d/s/y/-original-imah2c4fsfyjagfg.jpeg?q=70"
+            },
+            {
+              "name": "Aristocrat Small Check-in Suitcase",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/p/c/r/-original-imah9qwzjkw9v7rc.jpeg?q=70"
+            },
+            {
+              "name": "Kandle London Small Cabin Suitcase (51cm)",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/7/o/q/57-hard-sided-abs-and-pc-4-wheel-spinners-expandable-bag-with-original-imah98fzvs4dhb2n.jpeg?q=70"
+            },
+            {
+              "name": "Small Check-in Suitcase (54cm)",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/u/b/i/-original-imah7yykcgserb4h.jpeg?q=70"
+            },
+            {
+              "name": "Kamiliant by American Tourister",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/c/i/r/-original-imah34fzt5uw3gqr.jpeg?q=70"
+            },
+            {
+              "name": "Kamiliant by Tourister (54cm)",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/y/q/u/55-kam-triprism-sp-aqua-1-hk3-2-11-001-cabin-suitcase-kamiliant-original-imah7z9rwz8gzum9.jpeg?q=70"
+            },
+            {
+              "name": "Metronaut Small Cabin Suitcases (55 CM)",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/suitcase/t/n/n/-original-imaghdtzvqdejyvh.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Kids",
+          "image": "../images/CategoryImages/FashionImg/F9.jpeg",
+          "price": 499,
+          "products": [
+            {
+              "name": "Girls Below Knee Festive/Wedding Dress",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/w/a/x/2-3-years-jimi-pn-fashion-original-imah8y5whrvhdppk.jpeg?q=70"
+            },
+            {
+              "name": "Girls Below Knee Party Dress",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/t/x/h/2-3-years-rayon-yellow-03-magnete-original-imagt5tydzz4d9pf.jpeg?q=70"
+            },
+            {
+              "name": "Baby Girls Calf Length Festival Dress",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/j/p/r/6-7-years-new001-sms-dressses-original-imagytgdy56bamwm.jpeg?q=70"
+            },
+            {
+              "name": "Girls Below Knee Festive/Party Dress",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/u/e/u/3-4-years-rff-n-pk-pn-fashion-original-imahcy7ymaxvu8hu.jpeg?q=70"
+            },
+            {
+              "name": "Girls Baby Mini/Short Festive/Wedding",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/u/7/p/3-4-years-jahir-micky-sim-fab-original-imahf78ufzyzzcfb.jpeg?q=70"
+            },
+            {
+              "name": "Mickey Girls Midi/Knee Length Casual",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/y/e/1/1-2-years-3-mm-kolkata-garments-original-imahapyamvt2rezd.jpeg?q=70"
+            },
+            {
+              "name": "Girls Below Knee Festive/Party Dress",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/z/u/w/3-4-years-cpgl0016-chandrika-lifestyle-original-imahc5b6xwufcqfx.jpeg?q=70"
+            },
+            {
+              "name": "Girls Below Knee Party Dress",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/i/4/x/5-6-years-yellow-01-ayan-fashion-original-imah9hqrbaumncf5.jpeg?q=70"
+            }
+
+
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Essentials",
+          "image": "../images/CategoryImages/FashionImg/F2.jpeg",
+          "price": 999,
+          "products": [
+            {
+              "name": "Men Printed Cotton Blend Straght Kurta",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/8/i/k/xl-1901-kurta-shirt-combraided-original-imah83n4mgztkmud.jpeg?q=70"
+            },
+            {
+              "name": "Men Pure Cotton Kurta Pajama set(Brown)",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/e/r/u/m-ap-emb-kurta-06-allan-peter-original-imahbrx8hahyagm9.jpeg?q=70"
+            },
+            {
+              "name": "Men Chicken Embroidery Cotton Blend Kurta",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/c/f/b/xl-kcku-prm-single-star-pink-fubar-original-imah7mz844txgthq.jpeg?q=70"
+            },
+            {
+              "name": "Men Pure Cotton Kurta Pajama set(White)",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/a/v/5/xl-d-emb-106-divastri-original-imah9gwzxrj6kbz8.jpeg?q=70"
+            },
+            {
+              "name": "Men Pure Cotton Blend Kurta  Payjama Set(Maroon)",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-ethnic-set/s/v/k/s-s-sl-set-airforce-fashionparrot-original-imahygdwxa8hhkfg.jpeg?q=70"
+            },
+            {
+              "name": " Men Pure Cotton Blend Kurta  Payjama Set(Green)",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/z/w/m/s-sl-green-lyplo-original-imahfeffykdpwysy.jpeg?q=70"
+            },
+            {
+              "name": "Men Pure Cotton Blend Kurta  Payjama Set(Black)",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-kurta/l/f/m/m-kurta-yellow-mandk-enterprise-original-imahybkbzghndvwk.jpeg?q=70"
+            },
+            {
+              "name": "Men Pure Cotton Blend Kurta  Payjama Set(Light Pink)",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/kvba7bk0/kurta/7/p/f/xs-kurta-pink-jolly-creation-original-imag88urbwzvfzed.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Winter",
+          "image": "../images/CategoryImages/FashionImg/F11.webp",
+          "price": 659,
+          "products": [
+            {
+              "name": "Men full Sleeve Solid SweetShirt (Black)",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/t/b/3/m-tblrnfulsweat-plain-tripr-original-imah58ggcje9gs4q.jpeg?q=70"
+            },
+            {
+              "name": "Men full Sleeve Solid SweetShirt(Marron)",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweater/u/4/s/l-tmrrnfulsweaterr-plain-tripr-original-imah72ywdy2jmzs4.jpeg?q=70"
+            },
+            {
+              "name": "Men full Sleeve Solid SweetShirt(Grey)",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/g/o/2/l-tgyrnfulsweat-plain-tripr-original-imah58ghyz5due9r.jpeg?q=70"
+            },
+            {
+              "name": "Men full Sleeve Solid SweetShirt",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/z/b/i/m-togrhnfulsweat-st144-tripr-original-imah77r6v4qvh2gx.jpeg?q=70"
+            },
+            {
+              "name": "Men full Sleeve Solid SweetShirt",
+              "price": 999,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/c/s/s/xl-tbghnfulsweat-st144-tripr-original-imah5zcahrgkm7rj.jpeg?q=70"
+            },
+            {
+              "name": "Men full Sleeve Solid SweetShirt",
+              "price": 799,
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/z/b/i/m-togrhnfulsweat-st144-tripr-original-imah77r6v4qvh2gx.jpeg?q=70"
+            },
+            {
+              "name": "Men Solid Puffer Jacket",
+              "price": "899",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sweatshirt/f/d/h/m-tgyhdfulplain-spy-sweat-tripr-men-original-imah5g8qyfrqwasd.jpeg?q=70"
+            },
+            {
+              "name": "Men full Sleeve Solid Hooded SweetShirt",
+              "price": "399",
+              "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/a/2/e/xl-tblhnfulsweat-plainst160-tripr-original-imah6bbgetaczpyg.jpeg?q=70"
+            }
+
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Electronics",
+      "image": "../images/CategoryImages/Thumb/4.png",
+      "electronicsData": [
+        {
+          "id": 1,
+          "name": "Audio",
+          "price": 1499,
+          "image": "../images/CategoryImages/ElectronicsImg/E1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Electronis GST Store",
+          "price": 2000,
+          "image": "../images/CategoryImages/ElectronicsImg/E2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Cameras & Accessories",
+          "price": 2599,
+          "image": "../images/CategoryImages/ElectronicsImg/E3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Computer Perpherals",
+          "price": 49999,
+          "image": "../images/CategoryImages/ElectronicsImg/E4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Gaming",
+          "price": 5999,
+          "image": "../images/CategoryImages/ElectronicsImg/E5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Health & Personal Care",
+          "price": 3999,
+          "image": "../images/CategoryImages/ElectronicsImg/E6jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Laptop Accesories",
+          "price": 6599,
+          "image": "../images/CategoryImages/ElectronicsImg/E7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Laptop and Desktop",
+          "price": 59999,
+          "image": "../images/CategoryImages/ElectronicsImg/E8.jpeg"
+        },
+        {
+          "id": 9,
+          "name": "MobileAccessory",
+          "smartphones": [
+            {
+              "id": 1,
+              "image": "../images/PhonesImages/1.jpeg",
+              "name": "Motorola G85",
+              "price": "Just₹15,999*",
+              "products": [
+                {
+                  "name": "motorola edge 60 pro",
+                  "price": 9999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 50 pro",
+                  "price": 799,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159452-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 10 pro",
+                  "price": "899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola G85",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159493-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola Expensive Phone",
+                  "price": 99999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159485-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola Expensive Phone (Mountain Trail)",
+                  "price": 799,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159489-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan",
+                  "price": "7899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159221-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan(Forest Green)",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159225-1200-auto?width=1200&height=auto&aspect=true"
+                }
+
+              ]
+            },
+            {
+              "id": 2,
+              "image": "../images/PhonesImages/2.jpeg",
+              "name": "Vivo T3 Pro 5G",
+              "price": "From₹21,499*",
+                "products": [
+                {
+                  "name": "Vivo T4 5G",
+                  "price": 9999,
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1744102883733/2a9d92ab294e4d37eaa6b69dd499604d.png"
+                },
+                {
+                  "name": "Vivo Y39 5G",
+                  "price": 799,
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1742294454286/53f458c56c2bc87786487e70da430df2.png"
+                },
+                {
+                  "name": "Vivo Y19 5G",
+                  "price": "899",
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1744788092815/609b1056b0ceb46678b0cefd87d8ae28.png"
+                },
+                {
+                  "name": "Vivo V50e 5G",
+                  "price": "399",
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1744013821862/895d14fd9e47de7e59076f5979f60182.png"
+                },
+                {
+                  "name": "Vivo 19E 5G",
+                  "price": 99999,
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1742292688842/45478ef3d84f0b39e5234b5eec9ce347.png"
+                },
+                {
+                  "name": "Vivo T4x 5G",
+                  "price": 799,
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1740131500990/9cc40070e704777688659a333dd1d30a.png"
+                },
+                {
+                  "name": "Vivo 50 5G",
+                  "price": "7899",
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1739850054680/c80e59cb3532b0240deb3c10b2576a06.png"
+                },
+                {
+                  "name": "Vivo 50 5G (Blue)",
+                  "price": "399",
+                  "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1739850054680/c80e59cb3532b0240deb3c10b2576a06.png"
+                }
+
+              ]
+            },
+            {
+              "id": 3,
+              "image": "../images/PhonesImages/3.jpeg",
+              "name": "Moto Edge 50 Fusion",
+              "price": "From₹22,999*",
+              "products": [
+                {
+                  "name": "motorola edge 60 pro",
+                  "price": 29999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 60 pro (Blue)",
+                  "price": 29999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159457-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 60 pro(Pantone Shadow)",
+                  "price": "29999",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159452-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 50 ultra",
+                  "price": "37,499.25",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159012-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 50 ultra",
+                  "price": "37,499.25",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159016-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 50 ultra (Mountain Trail)",
+                  "price": "37,499.25",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159022-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan",
+                  "price": "7899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159221-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan(Forest Green)",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159225-1200-auto?width=1200&height=auto&aspect=true"
+                }
+
+              ]
+            },
+            {
+              "id": 4,
+              "image": "../images/PhonesImages/4.webp",
+              "name": "Samsung Galaxy F16",
+              "price": "From₹11,499*",
+               "products": [
+                {
+                  "name": "Galaxy S25+",
+                  "price": 9999,
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bdbcins-thumb-544669189?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S25+ (Silver)",
+                  "price": 799,
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936bzscins-thumb-544669265?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S25+ (Mint)",
+                  "price": "899",
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s936-sm-s936blgcins-thumb-544669227?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S25 Ultra (Titanium jetblack)",
+                  "price": "399",
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bakcins-thumb-544703063?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S25 Ultra (Titanium jadegreen)",
+                  "price": 99999,
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bzgcins-thumb-544703285?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S25 Ultra (Titanium Pinkgold)",
+                  "price": 799,
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s938-sm-s938bzdcins-thumb-544703174?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S25 (Special Color)",
+                  "price": "7899",
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2501/gallery/in-galaxy-s25-s931-534143-sm-s931bzkqins-thumb-544675182?$216_216_PNG$"
+                },
+                {
+                  "name": "Galaxy S24",
+                  "price": "399",
+                  "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s721bzkcins/gallery/in-galaxy-s24-fe-s721-sm-s721bzkcins-thumb-543757401?$216_216_PNG$"
+                }
+
+              ]
+            },
+            {
+              "id": 5,
+              "image": "../images/PhonesImages/5.jpeg",
+              "name": "Poco X7 5G",
+              "price": "Just₹17,999*",
+                "products": [
+                {
+                  "name": "Poco X7 Pro",
+                  "price": 9999,
+                  "image": "https://i02.appmifile.com/21_operatorx_operatorx_opx/23/04/2025/5dbab426107b30a306e318e9320956bf.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco X7",
+                  "price": 17799,
+                  "image": "https://i02.appmifile.com/434_operatorx_operatorx_opx/03/04/2025/a4dec0a716198d8fb4ead74c1ddfc600.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco C75",
+                  "price": "18899",
+                  "image": "https://i02.appmifile.com/200_operatorx_operatorx_opx/27/03/2025/a5665340d53f25d8450a4356581d51cf.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco C61",
+                  "price": "13399",
+                  "image": "https://i02.appmifile.com/511_operatorx_operatorx_opx/06/09/2024/0c37de0ef40adb38f44e1d7651a287fc.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco C71",
+                  "price": 99999,
+                  "image": "https://i02.appmifile.com/511_operatorx_operatorx_opx/06/09/2024/0c37de0ef40adb38f44e1d7651a287fc.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco M7 Pro 5G",
+                  "price": 799,
+                  "image": "https://i02.appmifile.com/434_operatorx_operatorx_opx/03/04/2025/a4dec0a716198d8fb4ead74c1ddfc600.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco F7 Pro",
+                  "price": "7899",
+                  "image": "https://i02.appmifile.com/200_operatorx_operatorx_opx/27/03/2025/a5665340d53f25d8450a4356581d51cf.png?thumb=1&w=600&f=webp&q=85"
+                },
+                {
+                  "name": "Poco F7 Ultra",
+                  "price": "399",
+                  "image": "https://i02.appmifile.com/602_operatorx_operatorx_opx/27/03/2025/7f55fcb97ad2db5405139b5c6b241d20.png?thumb=1&w=600&f=webp&q=85"
+                }
+
+              ]
+            },
+            {
+              "id": 6,
+              "image": "../images/PhonesImages/6.jpeg",
+              "name": "Oppo K12x 5G",
+              "price": "From₹10,999*",
+               "products": [
+                {
+                  "name": "OPPO A5 Pro 5G",
+                  "price": 9999,
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/16/s0lxraPWn73yF4lu.png"
+                },
+                {
+                  "name": "OPPO K13 5G",
+                  "price": 17799,
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/11/Sf3mt3qF5idRpv5z.png"
+                },
+                {
+                  "name": "OPPO F29 Pro 5G",
+                  "price": "18899",
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/17/zLbXeUqyWvMlCbVA.png"
+                },
+                {
+                  "name": "OPPO F29 5G",
+                  "price": "13399",
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/17/5AA18CoHj6PrKqK3.png"
+                },
+                {
+                  "name": "OPPO Find X8 Pro",
+                  "price": 99999,
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/08/3mRuBlRWPb1T7UKr.png"
+                },
+                {
+                  "name": "OPPO Find X8 Pro (Black)",
+                  "price": 799,
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202411/08/vmvCidrq27ds3cSb.png"
+                },
+                {
+                  "name": "OPPO K13 5G (Black)",
+                  "price": "17899",
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202504/11/D74nA7qXxr555Hwa.png"
+                },
+                {
+                  "name": "OPPO F29 Pro 5G",
+                  "price": "27999",
+                  "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202503/17/iqD1Y8acPU4mpDWF.png"
+                }
+
+              ]
+            },
+            {
+              "id": 7,
+              "image": "../images/PhonesImages/7.jpeg",
+              "name": "moto g35 5G",
+              "price": "From₹9,999*",
+               "products": [
+                {
+                  "name": "motorola edge 60 pro",
+                  "price": 9999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 50 pro",
+                  "price": 799,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159452-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 10 pro",
+                  "price": "899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola G85",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159493-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola Expensive Phone",
+                  "price": 99999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159485-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola Expensive Phone (Mountain Trail)",
+                  "price": 799,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159489-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan",
+                  "price": "7899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159221-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan(Forest Green)",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159225-1200-auto?width=1200&height=auto&aspect=true"
+                }
+
+              ]
+            },
+            {
+              "id": 8,
+              "image": "../images/PhonesImages/8.webp",
+              "name": "moto g64 5G",
+              "price": "Just₹12,999*",
+               "products": [
+                {
+                  "name": "motorola edge 60 pro",
+                  "price": 9999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 50 pro",
+                  "price": 799,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159452-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "motorola edge 10 pro",
+                  "price": "899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159478-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola G85",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159493-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola Expensive Phone",
+                  "price": 99999,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159485-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "Motorola Expensive Phone (Mountain Trail)",
+                  "price": 799,
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159489-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan",
+                  "price": "7899",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159221-1200-auto?width=1200&height=auto&aspect=true"
+                },
+                {
+                  "name": "moto g05 premium vegan(Forest Green)",
+                  "price": "399",
+                  "image": "https://motorolain.vtexassets.com/arquivos/ids/159225-1200-auto?width=1200&height=auto&aspect=true"
+                }
+
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Powerbank",
+          "price": 499,
+          "image": "../images/CategoryImages/ElectronicsImg/E9.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "Smart Home automation",
+          "price": 6549,
+          "image": "../images/CategoryImages/ElectronicsImg/E10.jpeg"
+        },
+        {
+          "id": 12,
+          "name": "Smart Wearables",
+          "price": 7899,
+          "image": "../images/CategoryImages/ElectronicsImg/E11.jpeg"
+        },
+        {
+          "id": 13,
+          "name": "Storage",
+          "price": 4599,
+          "image": "../images/CategoryImages/ElectronicsImg/E12.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Home & Furniture",
+      "image": "../images/CategoryImages/Thumb/5.webp",
+      "home&furnitureData": [
+        {
+          "id": 1,
+          "name": "Home Furnishings",
+          "price": 359,
+          "image": "../images/CategoryImages/HomeFurnImg/H1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Furniture",
+          "price": 4999,
+          "image": "../images/CategoryImages/HomeFurnImg/H2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Living Room Furniture",
+          "price": 9999,
+          "image": "../images/CategoryImages/HomeFurnImg/H3.jpeg"
+        },
+        {
+          "id": 4,
+          "name": "Kitchen and Dining",
+          "price": 2499,
+          "image": "../images/CategoryImages/HomeFurnImg/H4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Bedroom Furniture",
+          "price": 7998,
+          "image": "../images/CategoryImages/HomeFurnImg/H5.jpeg"
+        },
+        {
+          "id": 6,
+          "name": "Space Saving Furniture",
+          "price": 4848,
+          "image": "../images/CategoryImages/HomeFurnImg/H6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Home Decore",
+          "price": 299,
+          "image": "../images/CategoryImages/HomeFurnImg/H7.jpeg"
+        },
+        {
+          "id": 8,
+          "name": "Tools & Utility",
+          "price": 199,
+          "image": "../images/CategoryImages/HomeFurnImg/H8.webp"
+        },
+        {
+          "id": 9,
+          "name": "Work Space Furniture",
+          "price": 499,
+          "image": "../images/CategoryImages/HomeFurnImg/H9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Kids Furniture",
+          "price": 399,
+          "image": "../images/CategoryImages/HomeFurnImg/H10.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "Lightings &Electronics",
+          "price": 499,
+          "image": "../images/CategoryImages/HomeFurnImg/H11.webp"
+        },
+        {
+          "id": 12,
+          "name": "Cleaning & Bath",
+          "price": 498,
+          "image": "../images/CategoryImages/HomeFurnImg/H12.jpeg"
+        },
+        {
+          "id": 13,
+          "name": "Pet & Gardening",
+          "price": 699,
+          "image": "../images/CategoryImages/HomeFurnImg/H13.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Appliances",
+      "image": "../images/CategoryImages/Thumb/6.jpg",
+      "price": 499
+    },
+    {
+      "id": 7,
+      "name": "Flight Bookings",
+      "image": "../images/CategoryImages/Thumb/7.png",
+      "price": 3999
+    },
+    {
+      "id": 8,
+      "name": "Beauty, Toys & More",
+      "image": "../images/CategoryImages/Thumb/8.png",
+      "beauty&toysData": [
+        {
+          "id": 1,
+          "name": "Beauty & Personal Care",
+          "price": 2598,
+          "image": "../images/CategoryImages/BeautyToysImg/T1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "Men's Grooming",
+          "price": 1999,
+          "image": "../images/CategoryImages/BeautyToysImg/T2.jpeg"
+        },
+        {
+          "id": 3,
+          "name": "Food & Drinks",
+          "price": 1299,
+          "image": "../images/CategoryImages/BeautyToysImg/T3.webp"
+        },
+        {
+          "id": 4,
+          "name": "Nutrition & Health Care",
+          "price": 1199,
+          "image": "../images/CategoryImages/BeautyToysImg/T4.jpeg"
+        },
+        {
+          "id": 5,
+          "name": "Baby Care",
+          "price": 799,
+          "image": "../images/CategoryImages/BeautyToysImg/T5.webp"
+        },
+        {
+          "id": 6,
+          "name": "Toys & School Supplies",
+          "price": 499,
+          "image": "../images/CategoryImages/BeautyToysImg/T6.jpeg"
+        },
+        {
+          "id": 7,
+          "name": "Sports & Fitness",
+          "price": 899,
+          "image": "../images/CategoryImages/BeautyToysImg/T7.webp"
+        },
+        {
+          "id": 8,
+          "name": "Books",
+          "price": 699,
+          "image": "../images/CategoryImages/BeautyToysImg/T8.webp"
+        },
+        {
+          "id": 9,
+          "name": "Music",
+          "price": 599,
+          "image": "../images/CategoryImages/BeautyToysImg/T9.jpeg"
+        },
+        {
+          "id": 10,
+          "name": "Stationary & Office Supplies",
+          "price": 299,
+          "image": "../images/CategoryImages/BeautyToysImg/T10.jpeg"
+        },
+        {
+          "id": 11,
+          "name": "Auto Accessories",
+          "price": 399,
+          "image": "../images/CategoryImages/BeautyToysImg/T11.webp"
+        },
+        {
+          "id": 12,
+          "name": "Safety & Hygiene Essentials",
+          "price": 499,
+          "image": "../images/CategoryImages/BeautyToysImg/T12.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Two Wheelers",
+      "image": "../images/CategoryImages/Thumb/9.png",
+      "wheelarsData": [
+        {
+          "id": 1,
+          "name": "Petrol Vehicles",
+          "price": 229999,
+          "image": "../images/CategoryImages/WheelersImg/W1.webp"
+        },
+        {
+          "id": 2,
+          "name": "Electric Vehicles",
+          "price": 69999,
+          "image": "../images/CategoryImages/WheelersImg/W2.webp"
+        }
+      ]
+    }
+  ]
+}

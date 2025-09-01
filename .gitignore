@@ -1,0 +1,60 @@
+# See https://git-scm.com/docs/gitignore for more about ignoring files.
+
+# Ignore all .ps files
+*.ps
+
+# Optional: Ignore PostCSS-related files or custom scripts
+postcss.config.js
+autoprefixer.ps
+
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Testing coverage
+coverage/
+
+# Production build
+build/
+dist/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Optional: TypeScript cache
+*.tsbuildinfo
+
+# Optional: Next.js
+.next/
+out/
+
+# Optional: Vite
+.vite/
+
+# Optional: Storybook
+storybook-static/
+
+# Optional: Mac system files
+Icon?

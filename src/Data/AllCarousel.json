@@ -1,0 +1,28 @@
+{
+    "allCarousel": [
+        {
+            "id": 1,
+            "image": "/images/CarouselImages/1.webp"
+        },
+        {
+            "id": 2,
+            "image": "/images/CarouselImages/2.webp"
+        },
+        {
+            "id": 3,
+            "image": "/images/CarouselImages/3.webp"
+        },
+        {
+            "id": 4,
+            "image": "/images/CarouselImages/4.webp"
+        },
+        {
+            "id": 5,
+            "image": "/images/CarouselImages/5.webp"
+        },
+        {
+            "id": 6,
+            "image": "/images/CarouselImages/6.webp"
+        }
+    ]
+}
