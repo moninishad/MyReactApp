@@ -11,15 +11,14 @@
     "react-icons": "^5.5.0",
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.1.5",
+    "react-scripts": "^5.0.1",
     "react-slick": "^0.30.3",
     "slick-carousel": "^1.8.1"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
