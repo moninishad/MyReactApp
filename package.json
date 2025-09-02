@@ -14,12 +14,12 @@
     "react-slick": "^0.30.3",
     "slick-carousel": "^1.8.1"
   },
+
   "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
+
   "eslintConfig": {
     "extends": [
       "react-app",
