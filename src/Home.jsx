@@ -6,7 +6,7 @@ import allCarouselData from "./Data/AllCarousel.json";
 import allCategoryData from "./Data/AllCategory.json";
 import lowPriceData from "./Data/lowPrice.json";
 import MoreDemanded from "./Components/CommonComponents/MoreDemanded";
-import TopOffers from "./Components/CommonComponents/Topoffers";
+import TopOffers from "./Components/CommonComponents/TopOffers";
 // import Smartphones from "./Components/CommonComponents/Smartphones";
 // import OfferPrice from "./Components/CommonComponents/OfferPrice";
 // import gridData from "./Data/GridCategory.json";
