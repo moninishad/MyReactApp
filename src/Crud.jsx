@@ -47,7 +47,7 @@ function Crud() {
 
 
 // Create a new (post)
-
+      
       const newPost = {
         id: Date.now(),
         title: newTitle,
@@ -71,6 +71,7 @@ function Crud() {
   const handleDelete =async (id) => {
     const res =await axios.delete(`${API_URL}/${id}`);
     setPost(post.filter((p) => p.id !== id));
+    console.log(res);
   }
 
   useEffect(() => {

@@ -21,9 +21,7 @@ function AutoPlay(carouselImg) {
         <Slider {...settings}>
           {carouselImg.carouselImg.map((item) => (
             <div key={item.id}>
-              <img src={item.image}
-              className="w-full h-full object-contain"
-              />
+              <img src={item.image} alt={item.title} className="w-full h-full object-contain" />
             </div>
           ))}
         </Slider>

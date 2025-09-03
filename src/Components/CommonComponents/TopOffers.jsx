@@ -50,7 +50,7 @@ function topOffers({topOffer}){
                 state={{ productData: item }}
                 className=" p-4 rounded hover:shadow-lg transition">
                 <div key={item.id} className="px-10 w-full">
-                  <img src={item.image} className="w-full h-[10rem] mb-5" />
+                  <img src={item.image} alt={item.name} className="w-full h-[10rem] mb-5" />
                   <p className="text-sm text-center">{item.name}</p>
                   <p className="font-semibold text-center">₹{item.price}</p>
                 </div>

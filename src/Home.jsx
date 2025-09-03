@@ -6,7 +6,7 @@ import allCarouselData from "./Data/AllCarousel.json";
 import allCategoryData from "./Data/AllCategory.json";
 import lowPriceData from "./Data/lowPrice.json";
 import MoreDemanded from "./Components/CommonComponents/MoreDemanded";
-import Top_offers from "./Components/CommonComponents/Top_offers";
+import TopOffers from "./Components/CommonComponents/Topoffers";
 // import Smartphones from "./Components/CommonComponents/Smartphones";
 // import OfferPrice from "./Components/CommonComponents/OfferPrice";
 // import gridData from "./Data/GridCategory.json";
@@ -15,7 +15,7 @@ import Gridbox from "./Components/CommonComponents/Gridbox";
 function Home() {
   const [catonedata, setCatonedata] = useState([]);
   const [catTwodata, setCatTwodata] = useState([]);
-  const [catThreedata, setCatThreedata] = useState([]);
+  // const [catThreedata, setCatThreedata] = useState([]);
 
 
   // const [stuData, setStuData] = useState([]);
@@ -32,8 +32,8 @@ function Home() {
   // let fname = false;
   // let age = 20;
 
-const [className, setClassName] = useState("12");
-const name = "Hemant Gabra"
+// const [className, setClassName] = useState("12");
+// const name = "Hemant Gabra"
 
 
 
@@ -54,7 +54,7 @@ const name = "Hemant Gabra"
         
         <Category />
         <Carousel carouselImg={allCarouselData.allCarousel} />
-        <Top_offers topOffer={allCategoryData.allCategory[2].fashionData} />
+        <TopOffers topOffer={allCategoryData.allCategory[2].fashionData} />
 
 
         

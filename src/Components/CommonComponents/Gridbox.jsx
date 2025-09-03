@@ -136,7 +136,7 @@ function Festivesection({ grid_deal }) {
                         {categories.map((cat) => (
                             <div key={cat.id} className="border border-gray-200 bg-white p-3 rounded shadow-md relative">
                                 <img
-                                    src={cat.image}
+                                    src={cat.image}  alt={cat.name}
                                     className="h-28 w-full object-cover rounded"
                                 />
                                 <h3 className="font-semibold mt-2">{cat.name}</h3>
