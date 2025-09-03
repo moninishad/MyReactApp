@@ -1,42 +1,46 @@
 import allCategoryData from "../Data/AllCategory.json";
 import { FaChevronDown } from "react-icons/fa";
-import { useState, useRef } from "react";
+import { useEffect, useState } from "react";
+// import { useRef } from "react";
 
 function Category() {
   const categoryWithDropdown = [3, 4, 5, 8, 9];
   const [hoveredCategory, setHoveredCategory] = useState(null);
   
-  const inputRef = useRef(null);
-  const fileRef = useRef(null);
+  // const inputRef = useRef(null);
+  // const fileRef = useRef(null);
   const [categories, setCategories] = useState(() => allCategoryData?.allCategory || []);
   
   
 
-  const addCate = () => { 
-   const name = inputRef.current.value;
-   const imageFile = fileRef.current.files[0];
+//   const addCategory = () => { 
+//    const name = inputRef.current.value;
+//    const imageFile = fileRef.current.files[0];
 
 
-   if (name === '' || !imageFile) {
-    alert("Please enter name and select img.");
-    return; 
-  };
-debugger
-  const newCategory = {
-    id: categories.length + 1,
-    name: name,
-    image: URL.createObjectURL(imageFile),
-    price: Math.floor(Math.random() * 500) + 100,
-  }
-debugger
-    setCategories([...categories, newCategory]);
-    inputRef.current.value = "";
-    fileRef.current.value = null
+//    if (name === '' || !imageFile) {
+//     alert("Please enter name and select img.");
+//     return; 
+//   };
+// debugger
+//   const newCategory = {
+//     id: categories.length + 1,
+//     name: name,
+//     image: URL.createObjectURL(imageFile),
+//     price: Math.floor(Math.random() * 500) + 100,
+//   }
+// debugger
+//     setCategories([...categories, newCategory]);
+//     inputRef.current.value = "";
+//     fileRef.current.value = null
 
     
 
-}
+// }
 
+useEffect (()=>{
+  setCategories(allCategoryData?.allCategory || []);
+}, []);
 
   
   return (
@@ -61,7 +65,7 @@ debugger
               onMouseLeave={() => setHoveredCategory(null)}
             >
               <div>
-                <img src={category.image} />
+                <img src={category.image} alt={category.name} />
               </div>
               <p className="font-semibold flex ">
                 {category.name}

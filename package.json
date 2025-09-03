@@ -15,10 +15,10 @@
     "slick-carousel": "^1.8.1"
   },
   "scripts": {
-    "start": "vite",
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "react-scripts build",
+    "preview": "vite preview",
+    "start":"react-scripts start"
   },
   "eslintConfig": {
     "extends": [

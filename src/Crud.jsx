@@ -47,7 +47,6 @@ function Crud() {
 
 
 // Create a new (post)
-      const res = await axios.post(API_URL, { title: newTitle });
 
       const newPost = {
         id: Date.now(),
