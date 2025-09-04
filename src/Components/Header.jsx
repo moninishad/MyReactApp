@@ -36,6 +36,7 @@ function Header() {
     } else {
       alert("hi");
     }
+    console.log(setIsNotUser);
   };
 
   return (
@@ -65,6 +66,7 @@ function Header() {
         <div className="relative" ref={loginDropdownRef}>
           <button
             onClick={() => setIsLoginOpen(!isLoginOpen)}
+            onMouseLeave={() => setIsLoginOpen(false)}
             className="text-blue-600 bg-white px-[1rem] py-[0.4rem] rounded-lg focus:outline-none 
               flex justify-center items-center gap-[0.5rem] text-[1.1rem] font-medium "
           >
@@ -74,11 +76,11 @@ function Header() {
           </button>
 
           {isLoginOpen && (
-            <div className="absolute right-[-5] w-[15rem] bg-white text-black border rounded-lg shadow-lg z-10">
-              <ul>
+            <div className="absolute right-[-5] w-[15rem] bg-white text-black border rounded-lg shadow-lg z-10 ">
+              <ul className="">
                 <li className="px-4 py-3 border-b-2 border-grey-400 hover:bg-gray-100 cursor-pointer flex justify-between">
-                  <a href="#">New Customer ?</a>
-                  <a href="#">Sign In</a>
+                  <Link href="#">New Customer ?</Link>
+                  <Link href="#">Sign In</Link>
                 </li>
                 <li
                   onClick={checkUser}

@@ -55,9 +55,6 @@ console.log("ShoesData**********", offerCategory);
         {!phonesImg? 
        <Slider {...settings }>
           {currentOffer.map((item) => (
-            console.log("item", item),
-
-
             <Link
               key={item.id}
               to={`/productListing/${item.id}`}
@@ -96,7 +93,7 @@ console.log("ShoesData**********", offerCategory);
               className=" rounded hover:shadow-lg transition"
             >
               <div key={data.id} className="px-8 w-full pb-5">
-                <img src={data.image} className=" w-fullh-[10rem] mb-5" />
+                <img src={data.image} alt={data.name} className=" w-fullh-[10rem] mb-5" />
                 <p className="text-sm text-center">{data.name}</p>
                 <p className="font-semibold text-center">{data.price}</p>
               </div>

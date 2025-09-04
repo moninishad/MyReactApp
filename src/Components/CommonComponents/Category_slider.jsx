@@ -21,7 +21,7 @@ function CategorySlide(catSlideImg) {
       <Slider {...catslide}>
         {catSlideImg.catSlideImg.map((item) => (
           <div key={item.id} className="flex justify-center px-6 w-full">
-            <img src={item.image} className="h-[10rem] mb-5" />
+            <img src={item.image} alt={item.name} className="h-[10rem] mb-5" />
             <p className="text-sm text-center">{item.name}</p>
             <p className="font-semibold text-center">{item.discount}</p>
           </div>

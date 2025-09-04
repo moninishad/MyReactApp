@@ -28,7 +28,7 @@ function AllServices() {
       .catch((error) => {
         console.error("Error fetching services:", error);
       });
-  }, [cType]);
+  });
 
   return (
     <div className="container w-full m-auto p-10">
